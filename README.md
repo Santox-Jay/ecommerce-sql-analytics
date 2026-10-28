@@ -107,4 +107,8 @@ The project uses fictional, manually created sample data for educational and por
 
 ---
 
+## Results
+
+![Revenue by category](results/revenue_by_category.png)
+
 **Project status:** SQL analysis and data quality scripts prepared.
